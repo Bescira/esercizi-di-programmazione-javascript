@@ -17,3 +17,15 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var cats = 44;
+var queue = 6;
+
+var number = (cats/queue);
+
+var number = Math.ceil(number);
+
+var catsalone = (cats % number);
+
+console.log(number);
+console.log(catsalone);

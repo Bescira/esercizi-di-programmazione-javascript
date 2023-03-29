@@ -11,3 +11,9 @@
 
   http://www.imparareaprogrammare.it
 */
+var now = 2018;
+var born = 1991;
+var future = 100;
+
+console.log(now - born);
+console.log(100 - (now - born));
